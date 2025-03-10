@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sehajpreet kaur   
+- 👋 Hi, I’m Sehajpreet kaur   
 - 👀 I’m interested in  data analysis.
 - 🌱 I’m currently learning SQL, Python, Excel, and Power BI for a Data Analyst role .  
 - 💞️ I’m looking to collaborate on projects related to data analysis.
